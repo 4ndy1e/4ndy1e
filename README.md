@@ -5,6 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4ndy1e&layout=donut&langs_count=8&card_width=320&hide=HLSL,ShaderLab&hide_progress=true&theme=vue-dark" />
 </a>
 
+![](https://i.redd.it/zz229y8pmw8b1.gif)
 
 <!--
 **4ndy1e/4ndy1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
