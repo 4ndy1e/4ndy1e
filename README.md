@@ -1,3 +1,4 @@
+# Hi, I'm Andy 
 
 ---
 
@@ -6,6 +7,11 @@
   <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=4ndy1e&layout=donut&langs_count=8&card_width=320&hide=HLSL,ShaderLab&hide_progress=true&theme=algolia" />
   <img width="20%" src="https://pngfre.com/wp-content/uploads/cat-91-991x1024.png" />
 </div>
+
+
+---
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndy1e&theme=algolia&hide_border=true"/>
 
 
 
