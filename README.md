@@ -9,6 +9,12 @@
 
 ---
 
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndy1e&theme=algolia&hide_border=true"/>
+
+
+---
+
+
 <h3>💻 Programming Languages</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
@@ -47,12 +53,6 @@
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="60" height="60"/></a>
 </p>
-
----
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndy1e&theme=algolia&hide_border=true"/>
-
-
 
 <!--
 **4ndy1e/4ndy1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
