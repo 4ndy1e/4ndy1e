@@ -34,7 +34,6 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="60" height="60"/></a>
 </p>
 
 <h3>⚙️ Backend</h3>
